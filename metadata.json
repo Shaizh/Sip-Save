@@ -1,0 +1,6 @@
+{
+  "name": "Sip & Save",
+  "description": "Clean and modern customer-only café web application for table reservations, food pre-ordering, loyalty rewards, and customer booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
